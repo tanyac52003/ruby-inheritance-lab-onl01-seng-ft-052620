@@ -5,7 +5,7 @@ def initialize
 end 
 
 def learn(string)
-
+  @knowledge.push(string)
 end 
 
 def knowledge 

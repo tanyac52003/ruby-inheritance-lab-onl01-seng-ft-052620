@@ -4,8 +4,8 @@ def initialize
   [] < @knowledge
 end 
 
-def learn(string)
- KNOWLEDGE.push(string)
+def learn
+
 end 
 
 def knowledge 

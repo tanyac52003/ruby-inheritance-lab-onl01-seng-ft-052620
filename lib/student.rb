@@ -5,7 +5,7 @@ def initialize
 end 
 
 def learn(string)
-  
+  KNOWLEDGE.push(string)
 end 
 
 
